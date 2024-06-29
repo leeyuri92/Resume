@@ -1,0 +1,31 @@
+*{
+ border: red 1px solid;
+}
+
+body {
+    margin: 0px;
+    padding: 0px 200px 0px 200px;
+}
+
+header {
+    margin : 40px;
+}
+
+.container {
+
+
+}
+.sideBar {
+    text-align: center; /* 텍스트 및 이미지 중앙 정렬 */
+}
+
+.profile-info {
+    text-align: left;
+    margin-top: 20px; /* 이미지와 텍스트 사이의 간격 */
+    font-family: Arial, sans-serif; /* 폰트 설정 */
+    color: #333; /* 텍스트 색상 */
+}
+
+.profile-info p {
+    margin: 5px 0; /* 텍스트 간격 */
+}
